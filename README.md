@@ -8,11 +8,10 @@ Simplify bill management with Bill Splitter v1.0, a sleek and efficient Flutter 
 # Preview
 
 ## Loading Screen
-![IMG-20240619-WA0001](https://github.com/rajan-poudel/BillSplitter/assets/117752332/a5a82271-f624-49f7-9df6-ec745da415e0)
+![loading](https://github.com/globsofts/GlobFinance/assets/117752332/16cfc490-3c4e-4524-b4d7-670131bfb896)
 
 ## Home
-![IMG-20240619-WA0003](https://github.com/rajan-poudel/BillSplitter/assets/117752332/168e67ba-c47f-40db-bd69-bc94d37db8c2)
+![home](https://github.com/globsofts/GlobFinance/assets/117752332/911cf477-02a2-4c56-b8f6-a7e7311b797c)
 
 ## Result
-![IMG-20240619-WA0002](https://github.com/rajan-poudel/BillSplitter/assets/117752332/aca14ed5-3cf2-4e83-ada7-8b54b7c25a06)
-
+![result](https://github.com/globsofts/GlobFinance/assets/117752332/52d81a30-6af2-4df9-a3a8-d2df3f2ee121)
